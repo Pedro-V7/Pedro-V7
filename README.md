@@ -31,7 +31,7 @@
 # 📊 GitHub Stats:
 
 <center>
-   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="ilustração do mario codando" width="400" min-width="400px" max-width="400px" align="right" margin-right="10px" margin-bottom="10px"> 
+   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="ilustração do mario codando" width="390" min-width="390px" max-width="390px" align="right"> 
   
 ![](https://github-readme-stats.vercel.app/api?username=Pedro-V7&theme=radical&hide_border=true&include_all_commits=false&count_private=true) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pedro-V7&theme=radical&hide_border=true) <br> 
